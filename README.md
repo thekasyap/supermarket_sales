@@ -2,7 +2,7 @@
 In this project, I analyzed historical sales data from a supermarket to forecast sales trends and optimize stocking decisions for various departments. By leveraging Python and data visualization libraries like Pandas, Matplotlib, and Seaborn, I was able to uncover valuable insights into monthly sales patterns, department-wise average sales,etc.
 
 
-```markdown
+
 # Supermarket Sales Analysis
 
 ![Supermarket](https://github.com/thekasyap/supermarket_sales/assets/113460291/d8b8b3b0-2282-416a-a22a-33169eefd272)
